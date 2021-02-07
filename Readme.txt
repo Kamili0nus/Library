@@ -1,0 +1,1 @@
+It is a maven project, therefore running maven package (“mvn clean package”) will build the project
